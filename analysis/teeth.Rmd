@@ -1,5 +1,5 @@
 ---
-title: "teeth"
+title: "Teeth"
 author: "Hyunkyung Claire Kim"
 date: "2022-05-03"
 output: workflowr::wflow_html
